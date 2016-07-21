@@ -10,4 +10,11 @@
   <string name="input_hint">FB</string>
   <string name="input_prefill"></string>
   <string name="network_toast">Uh-oh! This app requires an internet connection</string>
+
+  <string name="add_new_stock">Add new stock</string>
+
+  <string name="msg_stock_saved">This stock is already saved!</string>
+  <string name="msg_stock_not_found_1">Stock record for </string>
+  <string name="msg_stock_not_found_2"> does not exists. </string>
+  <string name="no_stock_records">No stock records</string>
 </resources>
